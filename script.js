@@ -1,0 +1,1 @@
+let PASSWORD = "12345678"
