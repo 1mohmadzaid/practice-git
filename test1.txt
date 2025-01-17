@@ -1,6 +1,5 @@
 here i try to push origin local
-here test from dev
-here test from OPS
+here test from devOps
 2nd line form ops
 3rd line man
 4th line addwd
