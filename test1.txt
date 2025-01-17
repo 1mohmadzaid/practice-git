@@ -1,6 +1,6 @@
-here is master branch s
+here i try to push origin remote
 here test from dev
-here test from OPS  devvvvvvvvvvvvv
+here test from OPS
 
 2nd line form ops
 
